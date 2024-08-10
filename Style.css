@@ -6,7 +6,7 @@
 body
 {
     background-image: url(Weather1.jpg);
-   background-size: 1536px; 
+   background-size: auto;
 } 
 .container
 {
