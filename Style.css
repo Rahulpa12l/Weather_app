@@ -3,15 +3,13 @@
     padding: 0;
     box-sizing: border-box;
 }
-html
-{
-min-height: 100%;
-}
+
 body
 {
     background-image: url(Weather1.jpg);
    background-repeat: no-repeat;
    background-size: cover;
+   height: 100vh;
 } 
 .container
 {
